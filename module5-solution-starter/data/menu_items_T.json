@@ -1,0 +1,13 @@
+{
+  "category": {
+    "name": "Tofu",
+    "short_name": "T",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "T1", "name": "Mapo Tofu", "description": "Silken tofu in a spicy chili and black bean sauce with ground pork.", "price_small": 9.50, "small_portion_name": "Pint", "price_large": 16.50, "large_portion_name": "Quart"},
+    {"short_name": "T2", "name": "Tofu with Mixed Vegetables", "description": "Pan-fried tofu stir-fried with a variety of fresh vegetables in light sauce.", "price_small": 9.50, "small_portion_name": "Pint", "price_large": 16.50, "large_portion_name": "Quart"},
+    {"short_name": "T3", "name": "Sesame Tofu", "description": "Crispy tofu in a sweet sesame sauce topped with toasted sesame seeds.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 17.50, "large_portion_name": "Quart"},
+    {"short_name": "T4", "name": "Tofu in Garlic Sauce", "description": "Tender tofu with vegetables in a fragrant spicy garlic sauce.", "price_small": 9.50, "small_portion_name": "Pint", "price_large": 16.50, "large_portion_name": "Quart"}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "category": {
+    "name": "Lunch Specials",
+    "short_name": "L",
+    "special_instructions": "Served Monday through Friday 11:15am - 3:00pm. Includes soup or egg roll and steamed or fried rice."
+  },
+  "menu_items": [
+    {"short_name": "L1", "name": "Chicken with Broccoli", "description": "Tender chicken stir-fried with fresh broccoli in garlic sauce.", "price_small": 7.95, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L2", "name": "Beef with Scallions", "description": "Sliced beef sautéed with fresh scallions in savory brown sauce.", "price_small": 8.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L3", "name": "Shrimp with Lobster Sauce", "description": "Plump shrimp in a silky egg and black bean lobster sauce.", "price_small": 9.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L4", "name": "Sweet and Sour Chicken", "description": "Crispy chicken in a vibrant sweet and sour sauce with pineapple and peppers.", "price_small": 7.95, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L5", "name": "Moo Shu Pork", "description": "Shredded pork with cabbage and egg served with pancakes and hoisin sauce.", "price_small": 8.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L6", "name": "Sesame Chicken", "description": "Crispy chicken glazed in a sweet sesame sauce, topped with sesame seeds.", "price_small": 8.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L7", "name": "General Tso's Chicken", "description": "Crispy chicken in a tangy, slightly spicy General Tso sauce.", "price_small": 8.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L8", "name": "Vegetable Delight", "description": "A colorful medley of seasonal vegetables stir-fried in light sauce.", "price_small": 7.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L9", "name": "Pork Fried Rice", "description": "Classic fried rice with BBQ pork, egg, and scallions.", "price_small": 7.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "L10", "name": "Beef with Broccoli", "description": "Tender sliced beef with crisp broccoli in a rich oyster sauce.", "price_small": 8.50, "small_portion_name": null, "price_large": null, "large_portion_name": null}
+  ]
+}

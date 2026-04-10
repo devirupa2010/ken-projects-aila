@@ -1,0 +1,14 @@
+[
+  {"name": "Soups", "short_name": "SO"},
+  {"name": "Appetizers", "short_name": "A"},
+  {"name": "Lunch Specials", "short_name": "L"},
+  {"name": "Chicken", "short_name": "C"},
+  {"name": "Beef", "short_name": "B"},
+  {"name": "Seafood", "short_name": "F"},
+  {"name": "Fried Rice", "short_name": "FR"},
+  {"name": "Vegetables", "short_name": "V"},
+  {"name": "Tofu", "short_name": "T"},
+  {"name": "Noodle Dishes", "short_name": "NF"},
+  {"name": "Spring Rolls", "short_name": "SR"},
+  {"name": "Duck", "short_name": "D"}
+]

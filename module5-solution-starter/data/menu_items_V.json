@@ -1,0 +1,15 @@
+{
+  "category": {
+    "name": "Vegetables",
+    "short_name": "V",
+    "special_instructions": "All vegetable dishes can be prepared with tofu upon request."
+  },
+  "menu_items": [
+    {"short_name": "V1", "name": "Broccoli in Garlic Sauce", "description": "Tender broccoli florets stir-fried in a savory garlic sauce.", "price_small": 8.50, "small_portion_name": "Pint", "price_large": 14.95, "large_portion_name": "Quart"},
+    {"short_name": "V2", "name": "Mixed Vegetables", "description": "A colorful medley of seasonal vegetables wok-tossed in a light sauce.", "price_small": 8.50, "small_portion_name": "Pint", "price_large": 14.95, "large_portion_name": "Quart"},
+    {"short_name": "V3", "name": "Eggplant in Garlic Sauce", "description": "Soft braised eggplant in a fragrant spicy garlic sauce.", "price_small": 8.95, "small_portion_name": "Pint", "price_large": 15.50, "large_portion_name": "Quart"},
+    {"short_name": "V4", "name": "Sautéed String Beans", "description": "Crispy string beans dry-fried with garlic and a touch of chili.", "price_small": 8.95, "small_portion_name": "Pint", "price_large": 15.50, "large_portion_name": "Quart"},
+    {"short_name": "V5", "name": "Vegetarian Delight", "description": "A generous mix of mushrooms, tofu, baby corn, and fresh vegetables.", "price_small": 9.50, "small_portion_name": "Pint", "price_large": 16.50, "large_portion_name": "Quart"},
+    {"short_name": "V6", "name": "Snow Peas with Mushrooms", "description": "Crisp snow peas stir-fried with fragrant mushrooms in light oyster sauce.", "price_small": 8.50, "small_portion_name": "Pint", "price_large": 14.95, "large_portion_name": "Quart"}
+  ]
+}

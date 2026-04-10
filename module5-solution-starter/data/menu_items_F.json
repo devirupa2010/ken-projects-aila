@@ -1,0 +1,18 @@
+{
+  "category": {
+    "name": "Seafood",
+    "short_name": "F",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "F1", "name": "Shrimp with Lobster Sauce", "description": "Plump shrimp in a silky egg and black bean lobster sauce.", "price_small": 12.95, "small_portion_name": "Pint", "price_large": 21.95, "large_portion_name": "Quart"},
+    {"short_name": "F2", "name": "Shrimp with Broccoli", "description": "Fresh shrimp stir-fried with tender broccoli in garlic sauce.", "price_small": 12.95, "small_portion_name": "Pint", "price_large": 21.95, "large_portion_name": "Quart"},
+    {"short_name": "F3", "name": "Kung Pao Shrimp", "description": "Shrimp with peanuts, vegetables, and chilies in a spicy Kung Pao sauce.", "price_small": 13.50, "small_portion_name": "Pint", "price_large": 22.95, "large_portion_name": "Quart"},
+    {"short_name": "F4", "name": "Shrimp with Mixed Vegetables", "description": "Sautéed shrimp with a colorful variety of fresh vegetables.", "price_small": 12.95, "small_portion_name": "Pint", "price_large": 21.95, "large_portion_name": "Quart"},
+    {"short_name": "F5", "name": "Scallops with Garlic Sauce", "description": "Tender scallops sautéed with a fragrant garlic and chili sauce.", "price_small": 14.95, "small_portion_name": "Pint", "price_large": 24.95, "large_portion_name": "Quart"},
+    {"short_name": "F6", "name": "Fish Fillet with Black Bean Sauce", "description": "Delicate fish fillet with peppers and onions in savory black bean sauce.", "price_small": 13.50, "small_portion_name": "Pint", "price_large": 22.95, "large_portion_name": "Quart"},
+    {"short_name": "F7", "name": "Seafood Combination", "description": "A generous mix of shrimp, scallops, and fish with vegetables in a light sauce.", "price_small": 14.95, "small_portion_name": "Pint", "price_large": 24.95, "large_portion_name": "Quart"},
+    {"short_name": "F8", "name": "Sesame Shrimp", "description": "Crispy shrimp in a sweet sesame sauce topped with toasted sesame seeds.", "price_small": 13.50, "small_portion_name": "Pint", "price_large": 22.95, "large_portion_name": "Quart"},
+    {"short_name": "F9", "name": "Moo Shu Shrimp", "description": "Shrimp with cabbage and egg served with pancakes and hoisin sauce.", "price_small": 13.50, "small_portion_name": "Pint", "price_large": 22.95, "large_portion_name": "Quart"}
+  ]
+}

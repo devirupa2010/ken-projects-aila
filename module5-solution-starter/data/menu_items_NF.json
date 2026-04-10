@@ -1,0 +1,13 @@
+{
+  "category": {
+    "name": "Noodle Dishes",
+    "short_name": "NF",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "NF10", "name": "Lo Mein with Chicken", "description": "Soft egg noodles stir-fried with chicken and vegetables in savory sauce.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 16.95, "large_portion_name": "Quart"},
+    {"short_name": "NF11", "name": "Lo Mein with Beef", "description": "Soft egg noodles stir-fried with sliced beef and vegetables.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"},
+    {"short_name": "NF12", "name": "Lo Mein with Shrimp", "description": "Soft egg noodles stir-fried with shrimp and fresh vegetables.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.50, "large_portion_name": "Quart"},
+    {"short_name": "NF13", "name": "House Special Lo Mein", "description": "Egg noodles stir-fried with chicken, beef, shrimp, and BBQ pork.", "price_small": 11.95, "small_portion_name": "Pint", "price_large": 19.95, "large_portion_name": "Quart"}
+  ]
+}

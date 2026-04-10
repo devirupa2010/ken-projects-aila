@@ -1,0 +1,18 @@
+{
+  "category": {
+    "name": "Beef",
+    "short_name": "B",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "B1", "name": "Beef with Broccoli", "description": "Tender sliced beef with fresh broccoli in a rich oyster sauce.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.95, "large_portion_name": "Quart"},
+    {"short_name": "B2", "name": "Mongolian Beef", "description": "Thinly sliced flank steak with scallions in a sweet soy sauce.", "price_small": 11.50, "small_portion_name": "Pint", "price_large": 19.95, "large_portion_name": "Quart"},
+    {"short_name": "B3", "name": "Beef with Mixed Vegetables", "description": "Sliced beef stir-fried with a variety of fresh vegetables in brown sauce.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.95, "large_portion_name": "Quart"},
+    {"short_name": "B4", "name": "Orange Beef", "description": "Crispy beef in a sweet and tangy orange sauce.", "price_small": 11.50, "small_portion_name": "Pint", "price_large": 19.95, "large_portion_name": "Quart"},
+    {"short_name": "B5", "name": "Beef in Black Bean Sauce", "description": "Tender beef sautéed with green peppers and onions in savory black bean sauce.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.95, "large_portion_name": "Quart"},
+    {"short_name": "B6", "name": "Beef with Snow Peas", "description": "Sliced beef stir-fried with crisp snow peas in a light garlic sauce.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.95, "large_portion_name": "Quart"},
+    {"short_name": "B7", "name": "Pepper Steak", "description": "Juicy beef strips with green and red peppers in a savory brown sauce.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.95, "large_portion_name": "Quart"},
+    {"short_name": "B8", "name": "Spicy Szechuan Beef", "description": "Shredded beef with celery and carrots in a fiery Szechuan sauce.", "price_small": 11.50, "small_portion_name": "Pint", "price_large": 19.95, "large_portion_name": "Quart"},
+    {"short_name": "B9", "name": "Moo Shu Beef", "description": "Shredded beef with cabbage and egg served with pancakes and hoisin sauce.", "price_small": 11.50, "small_portion_name": "Pint", "price_large": 19.95, "large_portion_name": "Quart"}
+  ]
+}

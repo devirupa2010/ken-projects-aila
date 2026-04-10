@@ -1,0 +1,19 @@
+{
+  "category": {
+    "name": "Chicken",
+    "short_name": "C",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "C1", "name": "Chicken with Broccoli", "description": "Tender chicken stir-fried with fresh broccoli florets in a savory garlic sauce.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 16.95, "large_portion_name": "Quart"},
+    {"short_name": "C2", "name": "Kung Pao Chicken", "description": "Diced chicken with peanuts, vegetables, and dried chilies in a spicy sauce.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"},
+    {"short_name": "C3", "name": "Sesame Chicken", "description": "Crispy chicken in a sweet sesame glaze topped with toasted sesame seeds.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"},
+    {"short_name": "C4", "name": "General Tso's Chicken", "description": "Crispy chicken tossed in a tangy, mildly spicy General Tso sauce.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"},
+    {"short_name": "C5", "name": "Lemon Chicken", "description": "Lightly battered chicken in a refreshing lemon sauce.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"},
+    {"short_name": "C6", "name": "Chicken with Mixed Vegetables", "description": "Sliced chicken stir-fried with a colorful array of fresh vegetables.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 16.95, "large_portion_name": "Quart"},
+    {"short_name": "C7", "name": "Sweet and Sour Chicken", "description": "Battered chicken with pineapple and peppers in a classic sweet and sour sauce.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 16.95, "large_portion_name": "Quart"},
+    {"short_name": "C8", "name": "Chicken in Black Bean Sauce", "description": "Tender chicken sautéed with peppers and onions in a rich black bean sauce.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 16.95, "large_portion_name": "Quart"},
+    {"short_name": "C9", "name": "Moo Shu Chicken", "description": "Shredded chicken with cabbage, mushrooms, and egg, served with pancakes and hoisin.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"},
+    {"short_name": "C10", "name": "Orange Chicken", "description": "Crispy chicken pieces in a zesty orange peel sauce.", "price_small": 10.50, "small_portion_name": "Pint", "price_large": 17.95, "large_portion_name": "Quart"}
+  ]
+}

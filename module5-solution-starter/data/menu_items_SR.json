@@ -1,0 +1,12 @@
+{
+  "category": {
+    "name": "Spring Rolls",
+    "short_name": "SR",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "SR1", "name": "Vegetable Spring Rolls (2)", "description": "Crispy rolls filled with seasoned cabbage, carrots, and glass noodles.", "price_small": 3.95, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SR2", "name": "Pork Spring Rolls (2)", "description": "Golden fried rolls stuffed with seasoned pork and vegetables.", "price_small": 4.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SR3", "name": "Shrimp Spring Rolls (2)", "description": "Crispy rolls filled with fresh shrimp and mixed vegetables.", "price_small": 5.50, "small_portion_name": null, "price_large": null, "large_portion_name": null}
+  ]
+}

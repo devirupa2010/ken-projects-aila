@@ -1,0 +1,13 @@
+{
+  "category": {
+    "name": "Duck",
+    "short_name": "D",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {"short_name": "D1", "name": "Peking Duck (Half)", "description": "Roasted half duck with crispy skin served with pancakes, scallions, and hoisin sauce.", "price_small": 19.95, "small_portion_name": null, "price_large": 36.95, "large_portion_name": "Whole"},
+    {"short_name": "D2", "name": "Duck with Mixed Vegetables", "description": "Tender roasted duck slices stir-fried with seasonal vegetables.", "price_small": 13.95, "small_portion_name": "Pint", "price_large": 23.95, "large_portion_name": "Quart"},
+    {"short_name": "D3", "name": "Duck in Plum Sauce", "description": "Crispy duck pieces glazed in a sweet fragrant plum sauce.", "price_small": 13.95, "small_portion_name": "Pint", "price_large": 23.95, "large_portion_name": "Quart"},
+    {"short_name": "D4", "name": "Duck in Black Bean Sauce", "description": "Sliced roasted duck with peppers and onions in savory black bean sauce.", "price_small": 13.95, "small_portion_name": "Pint", "price_large": 23.95, "large_portion_name": "Quart"}
+  ]
+}

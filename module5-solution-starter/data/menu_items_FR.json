@@ -1,0 +1,14 @@
+{
+  "category": {
+    "name": "Fried Rice",
+    "short_name": "FR",
+    "special_instructions": "Substituting white rice with brown rice will be $1.50 for a pint and $2.50 for a quart."
+  },
+  "menu_items": [
+    {"short_name": "FR1", "name": "Vegetable Fried Rice", "description": "Wok-fried rice with fresh seasonal vegetables and egg.", "price_small": 7.95, "small_portion_name": "Pint", "price_large": 13.95, "large_portion_name": "Quart"},
+    {"short_name": "FR2", "name": "Chicken Fried Rice", "description": "Classic fried rice with tender chicken, egg, and scallions.", "price_small": 8.95, "small_portion_name": "Pint", "price_large": 14.95, "large_portion_name": "Quart"},
+    {"short_name": "FR3", "name": "Beef Fried Rice", "description": "Wok-fried rice with sliced beef, egg, and scallions.", "price_small": 9.50, "small_portion_name": "Pint", "price_large": 15.95, "large_portion_name": "Quart"},
+    {"short_name": "FR4", "name": "Shrimp Fried Rice", "description": "Fried rice with plump shrimp, egg, and fresh scallions.", "price_small": 9.95, "small_portion_name": "Pint", "price_large": 16.50, "large_portion_name": "Quart"},
+    {"short_name": "FR5", "name": "House Special Fried Rice", "description": "A combination of chicken, beef, shrimp, and BBQ pork with egg and vegetables.", "price_small": 10.95, "small_portion_name": "Pint", "price_large": 18.50, "large_portion_name": "Quart"}
+  ]
+}
