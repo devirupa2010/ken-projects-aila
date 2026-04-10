@@ -1,6 +1,6 @@
 [
-  {"name": "Soups", "short_name": "SO"},
-  {"name": "Appetizers", "short_name": "A"},
+  {"name": "Soups", "short_name": "A"},
+  {"name": "Appetizers", "short_name": "SO"},
   {"name": "Lunch Specials", "short_name": "L"},
   {"name": "Chicken", "short_name": "C"},
   {"name": "Beef", "short_name": "B"},

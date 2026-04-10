@@ -1,16 +1,16 @@
 {
   "category": {
-    "name": "Soups",
+    "name": "Appetizers",
     "short_name": "SO",
     "special_instructions": ""
   },
   "menu_items": [
-    {"short_name": "SO1", "name": "Wonton Soup", "description": "Pork and shrimp filled wontons in a savory chicken broth.", "price_small": 3.95, "small_portion_name": "Pint", "price_large": 6.50, "large_portion_name": "Quart"},
-    {"short_name": "SO2", "name": "Hot and Sour Soup", "description": "A spicy and tangy broth with tofu, mushrooms, bamboo shoots, and egg.", "price_small": 3.95, "small_portion_name": "Pint", "price_large": 6.50, "large_portion_name": "Quart"},
-    {"short_name": "SO3", "name": "Egg Drop Soup", "description": "Classic silky egg drop soup with scallions in a light broth.", "price_small": 3.50, "small_portion_name": "Pint", "price_large": 5.95, "large_portion_name": "Quart"},
-    {"short_name": "SO4", "name": "Chicken Noodle Soup", "description": "Tender chicken slices with noodles in a rich chicken broth.", "price_small": 3.95, "small_portion_name": "Pint", "price_large": 6.50, "large_portion_name": "Quart"},
-    {"short_name": "SO5", "name": "Vegetable Soup", "description": "A medley of fresh seasonal vegetables in a light vegetable broth.", "price_small": 3.50, "small_portion_name": "Pint", "price_large": 5.95, "large_portion_name": "Quart"},
-    {"short_name": "SO6", "name": "Corn and Egg Soup", "description": "Sweet corn and egg in a creamy, comforting broth.", "price_small": 3.50, "small_portion_name": "Pint", "price_large": 5.95, "large_portion_name": "Quart"},
-    {"short_name": "SO7", "name": "Seafood Tofu Soup", "description": "Fresh seafood and silken tofu in a ginger-scented broth.", "price_small": 4.95, "small_portion_name": "Pint", "price_large": 7.95, "large_portion_name": "Quart"}
+    {"short_name": "SO1", "name": "Spring Rolls (2)", "description": "Crispy vegetable spring rolls served with sweet and sour dipping sauce.", "price_small": 3.95, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SO2", "name": "Scallion Pancakes", "description": "Flaky pan-fried pancakes layered with fresh scallions.", "price_small": 4.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SO3", "name": "Sesame Noodles", "description": "Cold noodles tossed in a rich sesame sauce with scallions and cucumber.", "price_small": 5.95, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SO4", "name": "Edamame", "description": "Lightly salted steamed soybeans in the pod.", "price_small": 3.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SO5", "name": "Steamed Dumplings (6)", "description": "Handmade dumplings filled with pork and cabbage, served with ginger soy dipping sauce.", "price_small": 6.95, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SO6", "name": "Pan Fried Dumplings (6)", "description": "Crispy bottomed dumplings with a juicy pork and scallion filling.", "price_small": 7.50, "small_portion_name": null, "price_large": null, "large_portion_name": null},
+    {"short_name": "SO7", "name": "Spare Ribs", "description": "Tender BBQ spare ribs glazed with a sweet and savory sauce.", "price_small": 8.95, "small_portion_name": null, "price_large": null, "large_portion_name": null}
   ]
 }
